@@ -1,6 +1,4 @@
-Got it — here’s a **short, clean, human-written README in Markdown**:
 
----
 
 # Time-Off Microservice
 
